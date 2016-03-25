@@ -1,0 +1,13 @@
+#topbar {
+  display: block;
+  position: relative;
+  background-color: #A8A8A8;
+  height: 100px;
+  width: 100%;
+}
+#topbar h3 {
+  right: 500px;
+  top: 20px;
+  position: absolute;
+
+}
